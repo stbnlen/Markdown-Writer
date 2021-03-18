@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Markdown-Writer/static/css/main.0eb4b0a2.chunk.css",
+    "main.js": "/Markdown-Writer/static/js/main.4548c870.chunk.js",
+    "main.js.map": "/Markdown-Writer/static/js/main.4548c870.chunk.js.map",
+    "runtime-main.js": "/Markdown-Writer/static/js/runtime-main.527558ea.js",
+    "runtime-main.js.map": "/Markdown-Writer/static/js/runtime-main.527558ea.js.map",
+    "static/js/2.bada2dcc.chunk.js": "/Markdown-Writer/static/js/2.bada2dcc.chunk.js",
+    "static/js/2.bada2dcc.chunk.js.map": "/Markdown-Writer/static/js/2.bada2dcc.chunk.js.map",
+    "index.html": "/Markdown-Writer/index.html",
+    "static/css/main.0eb4b0a2.chunk.css.map": "/Markdown-Writer/static/css/main.0eb4b0a2.chunk.css.map",
+    "static/js/2.bada2dcc.chunk.js.LICENSE.txt": "/Markdown-Writer/static/js/2.bada2dcc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.527558ea.js",
+    "static/js/2.bada2dcc.chunk.js",
+    "static/css/main.0eb4b0a2.chunk.css",
+    "static/js/main.4548c870.chunk.js"
+  ]
+}
