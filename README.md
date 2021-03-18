@@ -2,10 +2,11 @@
 
 this is only a very simple markdown writer
 
->  [Live Demo](https://stbnlen.github.io/Markdown-Writer/) 
+>  <a href='https://stbnlen.github.io/Markdown-Writer/' target="_blank">Live Demo</a>
 
 ## Install
 
 only need dependencies
 ```
 npm install
+```
